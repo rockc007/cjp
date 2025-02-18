@@ -265,3 +265,17 @@ public class CubeCalculatorAWT extends Frame implements ActionListener {
         new CubeCalculatorAWT();
     }
 }
+
+4)Area and parameter of circle 
+    public class Pract3 
+public static void main(String|] args) 
+{ 
+double r= 1.2f; 
+double perimeter = 2 *3.14*r; 
+double area =3.14 * r* r; 
+System.out.println("Perimeter is =" + perimeter); 
+System.out.println("Area is = "+ area); 
+}
+}
+
+
